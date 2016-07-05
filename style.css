@@ -1,0 +1,26 @@
+p {
+  font-family: 'Concert One', cursive;
+  font-size: 1.2em;
+}
+
+h3 {
+  font-family: 'El Messiri', sans-serif;
+}
+
+#timeline p {
+  font-family: Verdana, Serif;
+  font-size: 1.2em;
+}
+
+blockquote {
+  border-color: #1e88e5;
+}
+
+#blockquote-footer {
+  color: grey;
+  font-style: italic;
+}
+
+#timeline p {
+  line-height: 2em;
+}
